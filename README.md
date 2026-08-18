@@ -1,10 +1,12 @@
 ## Hola, Soy Yamilet Sanchez
 
+<img src="https://github.com/Yamilet2708/Yamilet2708/blob/41f5c5926db177c38866ce3093be9fc8634bc1ce/PERFIL.png" width="100%">
+
 Soy **desarrolladora web** apasionada por aprender
 - 💡 Me encanta explorar nuevas tecnologías
 - 🌱 Estoy aprendiendo Backend y Bases de Datos
 
-<img src="https://github.com/Yamilet2708/Yamilet2708/blob/0286bfb32c817fb55720ed980692bf6e8a3960e7/perfil.png" width="100%">
+
 
 <!--
 **Yamilet2708/Yamilet2708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
